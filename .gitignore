@@ -1,0 +1,4 @@
+*.o
+soko_map
+my_sokoban
+test_map*
